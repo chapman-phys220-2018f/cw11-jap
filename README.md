@@ -39,9 +39,9 @@ This week we will continue the classwork from last week and implement the method
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
+I enjoyed this assignment 1. because I actually understand how to make pretty graphs and 2. it was interesting to see how each ODE looks graphically. I am a visual learner and graphing each function helped me understand the differential equations better.
 
-**CHANGEME**
+**Alley, Jessica, Paul**
 
 ## Honor Pledge
 
